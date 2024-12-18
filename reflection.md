@@ -1,0 +1,7 @@
+Use this file to record your reflection on this assignment. 
+
+It was a lot more easy coming back to this project after working with OOP in Java. I had a lot more fun this time now that I knew what I was doing. I may have cheesed this assignment a little bit, because one of the things that I think this was supposed to work on was figuring out what methods should be used by which class, and I didn't exeactly do that. For several of the tasks (changing the price and changing the OS) can be done either directly to the computer or in the resale shop. I figured there were different possibilities for what those tasks would be used for. For example, if you were creating a computer to add to the store, but realized you set it up wrong, you would want to directly change that information before adding it to the inventory, so you don't add it and then forget to change that. But also if you are changing something that has been in the store's inventory for a while, you aren't going to remember it's class name, so being able to search the inventory by description and make your changes there. 
+
+What worked, what didn't, what advice would you give someone taking this course in the future?
+
+I would reccomend drawing out the pathways between the various objects, and planning code out ahead of time. It's not like procedural code where you can wing it a little bit!
